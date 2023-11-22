@@ -7,9 +7,9 @@
  
 - ## Install
  
-    - git clone  `git-url`
-    - cd PROJECT_TITLE
-    - yarn install
+    $ git clone  `git-url`
+    $ cd PROJECT_TITLE
+    $ yarn install
  
   
 Run `npm install ` for installing project dependencies and   write `npm start`  for a dev server. 
